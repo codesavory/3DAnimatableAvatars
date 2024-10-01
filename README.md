@@ -9,3 +9,6 @@ The process of converting a 2D image into a 3D mesh and animating it involves se
 1. **Image Generation**: Using an LLM based diffusion model to generate a 2D image from a text prompt.
 2. **Image to Mesh Conversion**: Use a 2D image as input and convert it into a 3D mesh using Meta's Sapiens model.
 3. **Mesh Animation**: Animate the 3D mesh by fitting the SMPL-X parametric human body model to the mesh.
+
+## Pipeline Demo
+![Thumbnail](./assets/3DReconstruction/Thumbnail.gif)
