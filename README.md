@@ -11,4 +11,4 @@ The process of converting a 2D image into a 3D mesh and animating it involves se
 3. **Mesh Animation**: Animate the 3D mesh by fitting the SMPL-X parametric human body model to the mesh.
 
 ## Pipeline Demo
-![Thumbnail](./assets/3DReconstruction/Thumbnail.gif)
+![Thumbnail](./assets/3DReconstruction/ThumbnailCropped.gif)
